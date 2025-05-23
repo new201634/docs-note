@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d8ff0eb7-8cda-47ff-bfab-69ce7804d08a)## Android教程
+## Android教程
 
 #### 1.应用程式下载，选择一个网盘下载  
 - [蓝奏云端网盘](https://tagcloud.lanzouw.com/iokrd2hcglmb)
