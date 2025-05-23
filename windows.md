@@ -4,25 +4,21 @@
 
 ---
 
-## 应用程式下载，选择一个网盘下载
+## 使用教学
 
+#### 1.应用程式下载，选择一个网盘下载  
 - [蓝奏云端网盘](https://tagcloud.lanzouw.com/ibyth2hcivab)
 - [小飞机网盘](https://share.feijipan.com/s/noDri8kk)   
 
----
+#### 2.下载后安装 **Clash Verge Windows**  
 
-## 使用教学
-
-#### 1.下载后安装 **Clash Verge Windows**  
-
-#### 2.第一次使用会弹出 Windows 安全中心警报，勾选允许
+#### 3.第一次使用会弹出 Windows 安全中心警报，勾选允许
 ![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/3_1d6lc88.png)  
 
 
-#### 3.打开 Clash Verge 添加您购买的订阅网址，订阅网址请跟客服索取  
+#### 4.打开 Clash Verge 添加您购买的订阅网址，订阅网址请跟客服索取  
+注意：如果出现 "Network Error"，请尝试：关闭【系统代理】开关  
 ![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/1_1hmcerr.jpg)  
-
-#### 如果出现 "Network Error"，请尝试：关闭【系统代理】开关  
 
 
 #### 5.订阅成功后，选择您刚下载的订阅  
