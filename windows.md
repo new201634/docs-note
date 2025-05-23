@@ -23,7 +23,7 @@
 ---
 
 ### 4.打开 Clash Verge 添加您购买的订阅网址，订阅网址请跟客服索取  
-#### 注意：如果出现 "Network Error"，请尝试：关闭【系统代理】开关  
+### 注意：如果出现 "Network Error"，请尝试：关闭【系统代理】开关  
 ![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/1_1hmcerr.jpg)  
 
 ---
