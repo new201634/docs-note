@@ -10,7 +10,7 @@
 ### 1.打开应用商店 App Store，点击图标进入
 ![安装图](https://github.com/user-attachments/assets/2a94dbe7-3bf2-4b45-b099-44197d666a56)  
 
-<pre><code>``` ID： 2222222222@outlook.com ```</code></pre> <pre><code>``` 密碼： 123456 ```</code></pre>
+<pre><code>``` ID 22222@adf.com ```</code></pre>
 
 ---
 
