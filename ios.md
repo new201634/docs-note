@@ -1,11 +1,9 @@
-![image](https://github.com/user-attachments/assets/b3cc831d-fb6c-48a9-8bf6-d9cc697e34b6)# iOS 教學
+# iOS 教學
 
 ## 使用前请注意
 ⚠️ 请按教程操作，不要登录到设置，仅切换商店 ID 即可（否则容易锁 ID 或锁设备），按照步骤操作就不会出错
 
 ---
-
-![安装图]()   
 
 #### 1.打开应用商店 App Store，点击图标进入
 ![安装图](https://github.com/user-attachments/assets/2a94dbe7-3bf2-4b45-b099-44197d666a56)  
@@ -23,7 +21,7 @@
 ---
 
 #### 4.点击“类型”，选择 “Subscribe”  
-![安装图](![image](https://github.com/user-attachments/assets/6292dc6e-0db8-48d3-ab34-06a2a64db498)  
+![安装图](https://github.com/user-attachments/assets/6292dc6e-0db8-48d3-ab34-06a2a64db498)  
 
 ---
 
