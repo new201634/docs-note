@@ -26,19 +26,19 @@
 
 
 #### 5.订阅成功后，选择您刚下载的订阅  
-！[教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/2_1pt54i6.jpg)  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/2_1pt54i6.jpg)  
 
 
 #### 6.进入代理页面选择节点(默认是故障转移)  
-！[教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/3_bflf2x.jpg)  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/3_bflf2x.jpg)  
 
 
 #### 7.节点选好后，节点边框将显示为蓝色  
-！[教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/5_1jy7v9d.jpg)  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/5_1jy7v9d.jpg)  
 
 
 #### 8.点击“设置”，开启系统代理  
-！[教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/6_fkamwv.jpg)  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/6_fkamwv.jpg)  
 
 #### 9.链接成功后，系统代理按钮变蓝，即可正常上网  
-！[教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/7_1chtyrf.jpg)  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/7_1chtyrf.jpg)  
