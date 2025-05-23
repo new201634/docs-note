@@ -24,11 +24,11 @@
 ---
 
 ### 5.添加订阅，在桌面右上角找到ClashX图标，右键打开菜单，选择“配置”->“托管配置”->“管理”  
-![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/6_lvmowi.png)  
 
 ---
 
 ### 6.点击左下角的“添加”按钮  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/6_lvmowi.png)  
 
 ---
 
