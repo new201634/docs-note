@@ -10,6 +10,12 @@
 ### 1.打开应用商店 App Store，点击图标进入
 ![安装图](https://github.com/user-attachments/assets/2a94dbe7-3bf2-4b45-b099-44197d666a56)  
 
+ID：
+sgtjpxgcsvy@outlook.com
+
+密碼：
+Ss773399
+
 ---
 
 ### 2.搜索“Shadowrocket”，图标是一个小火箭
