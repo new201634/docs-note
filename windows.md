@@ -4,7 +4,7 @@
 
 ---
 
-## 应用程式下载(选择一个网盘下载)
+## 应用程式下载，选择一个网盘下载
 
 - [蓝奏云端网盘](https://tagcloud.lanzouw.com/ibyth2hcivab)
 - [小飞机网盘](https://share.feijipan.com/s/noDri8kk)   
