@@ -14,7 +14,7 @@
 ---
 
 ### 3.安装完成后，在“应用程序”中找到ClashX并开启
-### 开启时如果系统提示不安全或无法打开，需要开启“任何来源”选项，具体操作请参考[开启任何来源教程](https://sysin.org/blog/macos-if-crashes-when-opening/)  
+### 开启时如果系统提示不安全或无法打开，需要开启“任何来源”选项，具体操作请参考[开启任何来源教程](https://sysin.org/blog/macos-if-crashes-when-opening/)
 
 ---
 
