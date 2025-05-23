@@ -13,17 +13,16 @@
 
 ## 使用教学
 
-下载后安装 **Clash Verge Windows**，作业系统修改预设的 `C:\Program Files (x86)` 安装路径；  
-安装完毕后，以管理员身分执行；
+#### 1.下载后安装 **Clash Verge Windows**  
 
-第一次使用会弹出 Windows 安全中心警报，勾选允许：  
-Windows 安全性提示  
-点选下方按钮复制您的订阅地址：  
-点选复制订阅位址  
+#### 2.第一次使用会弹出 Windows 安全中心警报，勾选允许
+![安装教学](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/3_1d6lc88.png)  
 
----
+#### 3.打开 Clash Verge 添加订阅  
 
-## Clash Verge 开启订阅
+#### 4.![安装教学](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/1_1hmcerr.jpg)  
+
+#### 5.复制客服给您的订阅地址，请找客服索取
 
 如果出现 “网络错误”，请尝试：  
 关闭【添加系统代理】  
