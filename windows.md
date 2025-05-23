@@ -16,17 +16,15 @@
 #### 1.下载后安装 **Clash Verge Windows**  
 
 #### 2.第一次使用会弹出 Windows 安全中心警报，勾选允许
-![安装教学](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/3_1d6lc88.png)  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/3_1d6lc88.png)  
 
-#### 3.打开 Clash Verge 添加订阅  
+#### 3.打开 Clash Verge 添加您购买的订阅网址，订阅网址请跟客服索取  
+![教学图](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/1_1hmcerr.jpg)  
 
-#### 4.![安装教学](https://storage.crisp.chat/users/helpdesk/website/de54da2065412800/1_1hmcerr.jpg)  
+#### 如果出现 "Network Error"，请尝试：关闭【系统代理】开关  
 
-#### 5.复制客服给您的订阅地址，请找客服索取
+#### 5.订阅成功后，选择您刚下载的订阅  
 
-如果出现 “网络错误”，请尝试：  
-关闭【添加系统代理】  
-切换、 更换网络，如使用手机热点；  
 
 新增订阅后：  
 - 点击下方按钮复制您的订阅  
