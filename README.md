@@ -3,6 +3,6 @@
 
 ## [🤖 Android–教程](android.md)  
 
-## [🖥 Windows–教程](windows.md)  
+## [🖥 Windows电脑–教程](windows.md)  
 
-## [💻 Mac–教程](mac.md)
+## [💻 Mac电脑–教程](mac.md)
