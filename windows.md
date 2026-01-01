@@ -8,8 +8,8 @@
 ---
 
 ### 1.应用程式下载，选择一个网盘下载  
-- [蓝奏云端网盘](https://tagcloud.lanzouw.com/ibyth2hcivab)
-- [小飞机网盘](https://share.feijipan.com/s/noDri8kk)
+- [下載1](https://www.icloud.com/iclouddrive/002QkpFUTtUv1KqP6ohJKu1kQ#Clash.Verge%5F2.4.4%2Bautobuild.1111.e02f23e%5Fx64-setup%5Fwindows)
+- [下載2](https://share.feijipan.com/s/noDri8kk)
 
 ---
 
