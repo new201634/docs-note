@@ -11,7 +11,7 @@
 ![安装图](https://github.com/user-attachments/assets/2a94dbe7-3bf2-4b45-b099-44197d666a56)  
 
 #### ID：zeciodgesp916@outlook.com
-#### 联系我们提供密码给您
+#### 密码：请联系客服
 
 ---
 
