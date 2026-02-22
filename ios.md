@@ -10,12 +10,8 @@
 ### 1.打开应用商店 App Store，点击图标进入
 ![安装图](https://github.com/user-attachments/assets/2a94dbe7-3bf2-4b45-b099-44197d666a56)  
 
-#### ID：roynina22898@gmail.com
-#### 密码：Ls112233
-
-#### 登录提示双重认证时，点击 “没有收到验证码？”
-#### 再选择 “无法使用我的设备”，发送短信至 (***)***-**99
-#### 发送后，联系我们提供验证码给您
+#### ID：zeciodgesp916@outlook.com
+#### 联系我们提供密码给您
 
 ---
 
