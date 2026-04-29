@@ -11,6 +11,7 @@
 ![安装图](https://github.com/user-attachments/assets/2a94dbe7-3bf2-4b45-b099-44197d666a56)  
 
 #### ID：derekcastillo9391@outlook.com
+#### ID只有9391是數字，其他都是小寫英文
 #### 密码：请联系客服
 
 ---
