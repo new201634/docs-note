@@ -7,9 +7,9 @@
 
 ---
 
-### 1.应用程式下载，选择一个网盘下载  
-- [下載1](https://www.icloud.com/iclouddrive/002QkpFUTtUv1KqP6ohJKu1kQ#Clash.Verge%5F2.4.4%2Bautobuild.1111.e02f23e%5Fx64-setup%5Fwindows)
-- [下載2](https://share.feijipan.com/s/noDri8kk)
+### 1.应用程式下载，选择一个下载  
+- [下載1](https://www.icloud.com/iclouddrive/0d6G_DEi1GSgm8lybYv3vWDJg#Clash.Verge%5F2.4.7%5Fx64-setup)
+- [下載2](https://file.lsu.bz/clash_verge/Clash.Verge_2.4.7_x64-setup.exe)
 
 ---
 
