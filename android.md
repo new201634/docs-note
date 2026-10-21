@@ -3,8 +3,9 @@
 ---
 
 ### 1.应用程式下载，选择一个网盘下载  
-- [下載](https://www.icloud.com/iclouddrive/0599LoFc4F5eDpWsUsZW3iBww#FlClash-0.8.92-android-arm64-v8a)
-
+- [下載1](https://file.lsu.bz/flclash/FlClash-0.8.99-android-arm64-v8a.apk)
+- [下載2](https://www.icloud.com/iclouddrive/062a4jSSBismOOXTeQnhEFx7w#FlClash-0.8.99-android-arm64-v8a)
+- 
 ---
 
 ### 2.安装并打开 FlClash ，应用图标如下：  
