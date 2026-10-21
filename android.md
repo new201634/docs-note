@@ -3,8 +3,8 @@
 ---
 
 ### 1.应用程式下载，选择一个网盘下载  
-- [下載1](https://file.lsu.bz/flclash/FlClash-0.8.99-android-arm64-v8a.apk)
-- [下載2](https://www.icloud.com/iclouddrive/062a4jSSBismOOXTeQnhEFx7w#FlClash-0.8.99-android-arm64-v8a)
+- [下載1](https://file.lsu.bz/clash_verge/Clash.Verge_2.5.8_x64-setup.exe)
+- [下載2](https://www.icloud.com/iclouddrive/06bH4zjL1OwPOrsUqMbysXoyA#Clash.Verge%5F2.5.8%5Fx64-setup)
 - 
 ---
 
