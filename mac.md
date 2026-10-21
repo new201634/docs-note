@@ -3,8 +3,10 @@
 ---
 
 ### 1.应用下载（请下载适合你电脑的版本,进入按下载副本下载到你电脑并安装）。
-- [Intel芯片版本](https://www.icloud.com/iclouddrive/0bbwHNRK6sHPNpTyzMlBEnWTQ#Clash.Verge%5F2.4.7%5Fx64)
-- [M芯片版本](https://www.icloud.com/iclouddrive/039HcTxdMsndZ8D9iMccbA-0w#Clash.Verge%5F2.4.7%5Faarch64)
+- [Intel芯片版本-iCloud网盘下载](https://www.icloud.com/iclouddrive/0c8Gk6316Ya1lMJILGdSc2G2Q#Clash.Verge%5F2.5.8%5Fx64)
+- [Intel芯片版本-直链下载](https://file.lsu.bz/clash_verge/Clash.Verge_2.5.8_x64.dmg)
+- [M芯片版本-iCloud网盘下载](https://www.icloud.com/iclouddrive/00bs4_U447C9CyWNzawD4owQw#Clash.Verge%5F2.5.8%5Faarch64)
+- [M芯片版本-直链下载](https://file.lsu.bz/clash_verge/Clash.Verge_2.5.8_aarch64.dmg)
 
 ---
 
